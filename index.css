@@ -1,0 +1,23 @@
+.container {
+    padding: 10px;
+    background-color: white;
+    height: 300px;
+    width: 500px;
+}
+
+.contain {
+    align-items: center;
+}
+
+body {
+    text-align: center;
+    background-color: pink;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+button {
+    color: green;
+}
